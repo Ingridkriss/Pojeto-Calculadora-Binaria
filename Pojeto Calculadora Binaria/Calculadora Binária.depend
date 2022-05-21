@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653162566 source:c:\users\acer\desktop\test\calculadora binária\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
